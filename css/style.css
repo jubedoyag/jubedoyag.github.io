@@ -56,12 +56,11 @@ div.subtitle , div.text_cont {
 
 .subtitle {
     font-weight: bold;
+    font-size: 120%;
     float: right;
     width: 120px;
     text-align: center;
 }
-
-
 
 .text_cont {
     padding: 15px;
